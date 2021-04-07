@@ -1,0 +1,9 @@
+pyaudio 
+SpeechRecognition
+nltk
+
+
+#Para instalação do pyaudio no windows é preciso que seja uma versão do Python superior a 3.0, pois versões anteriores não possuem mais suporte
+#Será necessário download do wheel (prebuilt package). Logo você precisa utilizar o comando "python --version" para verificar a sua versão
+#e acessar o seguinte link para baixar o arquivo correto: "https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio"
+#Após download, basta executar o comando: "pip install *arquivo* Ex: pip install PyAudio-0.2.11-cp39-cp39-win_amd64.whl

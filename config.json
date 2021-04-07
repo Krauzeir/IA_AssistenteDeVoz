@@ -1,0 +1,36 @@
+{
+    "nome": "krauser",
+    "perguntas": [
+        "fale sobre",
+        "defina",
+        "qual conceito",
+        "qual definição",
+        "o que é"
+    ],
+    "assuntos": [
+        {
+            "nome": "marketing",
+            "resposta": "marketing e estrategia empresarial de otimizacao de lucros por meio da adequacao da produçao e oferta de mercadorias ou servicos as necessidades e preferencias dos consumidores, recorrendo a pesquisas de mercado, design, campanhas publicitárias, atendimentos pos-venda etc. Podendo ocorrer a prospecçao do cliente por inbound ou outbound marketing"
+        },
+        {
+            "nome": "out bound",
+            "resposta": "e o marketing tradicional, em que sua empresa aparece ao consumidor por meio de propagandas. O outbound e uma estratégia de prospecção ativa: ao inves de atrair, voce identifica potenciais clientes e começa a aborda-los."
+        },
+        {
+            "nome": "outbound",
+            "resposta": "e o marketing tradicional, em que sua empresa aparece ao consumidor por meio de propagandas. O outbound e uma estratégia de prospecção ativa: ao inves de atrair, voce identifica potenciais clientes e começa a aborda-los."
+        },
+        {
+            "nome": "inbound",
+            "resposta": "o inbound marketing e uma estrategia que atrai o cliente ate a empresa. para isso, utiliza conteudo relevante e adequado a persona para encanta-la, educa-la sobre seu produto ou serviço e convertê-la em cliente."
+        },
+        {
+            "nome": "fluxo",
+            "resposta": "O objetivo do funil de vendas em Y, tambem conhecido como fluxo y, e captar leads por meio do inbound e também pelo outbound, utilizando ambas formas de prospecçao para alcançar o cliente-alvo"
+        },
+        {
+            "nome": "lead",
+            "resposta": "Os leads sao contatos que demonstraram interesse por algum tipo de produto ou servico"
+        }
+    ]
+}
